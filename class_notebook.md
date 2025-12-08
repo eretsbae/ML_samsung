@@ -22,3 +22,7 @@
 - Scikit-learn이 제공하는 알고리즘
 ![](.\ml_map.svg)
 
+
+---
+
+### 2. Data Load
